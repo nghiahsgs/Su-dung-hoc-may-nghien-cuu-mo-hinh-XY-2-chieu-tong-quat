@@ -1,0 +1,15 @@
+All types of input have the same pickle structure.
+
+e.g.: Delta0.34_L12.pickle
+Test data: run20.h5
+pickle structure: 10 components
+0: xy
+1: angle (renorm from 0 to 1)
+2: vortex
+3: label
+4: temperature
+5: angle-vortex input
+6: helicity
+7: magnetization
+8: activation of 32 FCN corresponding to a specific input
+9: softmax output

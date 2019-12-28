@@ -1,0 +1,6 @@
+There are 2 folder: angle and vortex
+Each folder correspond: each pre-processing method 
+Each folder has delta0.2, delta0.34, delta1.0
+Each delta has 1 file CNN0.pdf
+eg: /angle/delta1.0/CNN0.pdf => visulize kernel at state delta 1.0 and 'angle' method
+CNN0.pdf consist : 4 rows and 8 cols, rows=[12,16,24,32], cols=kernel of [filter1,... , filter 8]
