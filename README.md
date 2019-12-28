@@ -28,3 +28,5 @@ Do có rất nhiều model và dữ liệu khá nặng nên mình chỉ upload v
 
 ## Code để chạy ra kết quả SHAP
 https://drive.google.com/drive/folders/1WdbocrwWUMdxqM7UR6sBMck7_WE8x_FW?usp=sharing
+
+Mọi ý kiến đóng góp hoặc muốn copy thêm dữ liệu xin hãy liên hệ nghiahsgs@gmail.com =))
